@@ -1,5 +1,6 @@
 # Linkage Methods for Hierarchical Clustering
-Comparison of different linkages like complete, average, ward, single on different datasets by plotting data on 2D plane by matplotlib
+Comparison of different linkages like complete, average, ward, single on dataset by plotting data on 2D plane by matplotlib
+
 ![single_dend](https://user-images.githubusercontent.com/21370665/53292149-5f693880-37cf-11e9-9327-1107556e8827.png)
 ![single_plt](https://user-images.githubusercontent.com/21370665/53292150-5f693880-37cf-11e9-95b1-80ddccc3e67a.png)
 ![ward_dend](https://user-images.githubusercontent.com/21370665/53292151-5f693880-37cf-11e9-8c75-950dbb777314.png)
